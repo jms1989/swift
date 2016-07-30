@@ -2,7 +2,7 @@
 title: Swift
 description: A clean minimal Theme for Jekyll
 email: 
-baseurl: /swift
+baseurl: /
 url: "http://www.thelonegeek.net" # the base hostname & protocol for your site
 #favicon
 favicon: /favicon.png
