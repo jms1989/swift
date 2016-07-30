@@ -1129,14 +1129,14 @@ input, button, select, textarea {
 }
 
 a {
-  color: #008cba;
+  color: #ea2f10;
   text-decoration: none;
   &:hover {
-    color: #00526e;
+    color: #b31900;
     text-decoration: underline;
   }
   &:focus {
-    color: #00526e;
+    color: #b31900;
     text-decoration: underline;
     outline: thin dotted;
     outline: 5px auto -webkit-focus-ring-color;
@@ -3130,12 +3130,12 @@ fieldset[disabled] .btn-default.active {
 
 .btn-primary {
   color: #ffffff;
-  background-color: #008cba;
-  border-color: #0079a1;
+  background-color: #ea2f10;
+  border-color: #ea2f10;
   &:hover, &:focus, &:active, &.active {
     color: #ffffff;
-    background-color: #006687;
-    border-color: #004b63;
+    background-color: #b31900;
+    border-color: ##b31900;
   }
 }
 
@@ -6040,22 +6040,22 @@ a.list-group-item-danger {
 }
 
 .panel-primary {
-  border-color: #008cba;
+  border-color: #b31900;
   > {
     .panel-heading {
       color: #ffffff;
-      background-color: #008cba;
-      border-color: #008cba;
+      background-color: #b31900;
+      border-color: #b31900;
       + .panel-collapse > .panel-body {
-        border-top-color: #008cba;
+        border-top-color: #b31900;
       }
       .badge {
-        color: #008cba;
+        color: #b31900;
         background-color: #ffffff;
       }
     }
     .panel-footer + .panel-collapse > .panel-body {
-      border-bottom-color: #008cba;
+      border-bottom-color: #b31900;
     }
   }
 }
